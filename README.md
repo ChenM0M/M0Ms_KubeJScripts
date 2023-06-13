@@ -6,8 +6,8 @@ There is currently no English version of readme.md available,you can try to tran
 交流频道：https://imdodo.com/s/208104 【会有更详细的图文教程】
 # 语法情况
 ## KJS6(我的世界版本1.19+)：
-（WIP）跑酷套件parkour_stuffs 
-（WIP）类星露谷种植系统Star_Valley_argriculture 
-更多的机械动力砂纸Mo'CreateSandPaper 
+（WIP）跑酷套件parkour_stuffs  
+（WIP）类星露谷种植系统Star_Valley_argriculture  
+更多的机械动力砂纸Mo'CreateSandPaper  
 
 
